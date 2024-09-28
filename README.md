@@ -6,10 +6,10 @@ This project is a tool for detecting nudity in images, allowing users to analyze
 
 ## Features
 
-- **Nudity Detection**: Detects inappropriate content in images.
-- **Analyze Images from URLs or Locally**: Allows users to choose between analyzing local images or downloading images from a URL.
-- **Automatic Censorship**: Automatically blurs images detected as inappropriate.
-- **Automatic Naming**: Generates random names for downloaded and censored images to prevent file overwriting.
+- Detects inappropriate content in images.
+- Allows users to choose between analyzing local images or downloading images from a URL.
+- Automatically blurs images detected as inappropriate.
+- Generates random names for downloaded and censored images to prevent file overwriting.
 
 ## How It Works
 
